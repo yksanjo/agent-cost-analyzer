@@ -1,0 +1,14 @@
+{
+  "name": "agent-cost-analyzer",
+  "version": "1.0.0",
+  "description": "AI Cost Analyzer and Optimizer",
+  "private": true,
+  "workspaces": ["packages/*", "services/*", "integrations/*"],
+  "scripts": {
+    "test": "npm test --workspaces --if-present",
+    "dev": "npm run dev --workspaces --if-present"
+  },
+  "keywords": ["agent", "ai", "cost-tracking,optimization,budget,alerts"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}
