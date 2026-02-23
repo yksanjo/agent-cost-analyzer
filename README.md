@@ -1,5 +1,12 @@
 # agent-cost-analyzer
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agent-cost-analyzer/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agent-cost-analyzer/actions)
+![License](https://img.shields.io/github/license/yksanjo/agent-cost-analyzer)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agent-cost-analyzer)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agent-cost-analyzer)
+
 ## Detailed Description
 
 agent-cost-analyzer is maintained as an industry-grade software project with production-ready engineering practices.  
